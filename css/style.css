@@ -1,0 +1,51 @@
+/* common css start */
+body {
+  font-family: "PT Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #010101;
+}
+/* common css end */
+/* header start */
+header {
+  background-color: #fcdb00;
+  padding: 20px 0;
+}
+.menu ul li a {
+  font-size: 22px;
+  font-weight: 700 !important;
+  color: #010101 !important;
+  padding: 0 40px !important;
+}
+.menu ul li:last-child a {
+  padding-right: 0 !important;
+}
+.menu ul li a:hover {
+  color: #fff !important;
+}
+/* header end */
+/* slider start */
+.My_slider {
+  padding-bottom: 100px;
+  background-color: #fcdb00;
+}
+.slider_text {
+}
+.slider_text h1 {
+  font-size: 32px;
+  font-weight: 700;
+}
+.slider_text h2 {
+  font-size: 20px;
+  font-weight: 400;
+  color: #313841;
+}
+.slider_text p {
+  color: #555555;
+}
+.slider_icons {
+}
+.slider_icons ul li i {
+  font-size: 42px;
+}
+/* slider end */
